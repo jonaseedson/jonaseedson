@@ -1,4 +1,20 @@
-### Hi there 👋
+### Olá a todos 👋
+
+#### Sobre mim
+
+##### Tenho 4 anos de experiência como Designer Gráfico, e atualmente estou estudando tecnologias Mobile, Web e Automações.
+
+### Detalhes
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonaseedson&show_icons=true&theme=tokyonight)
+
+### Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonaseedson)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/jonasedson/)
 
 <!--
 **jonaseedson/jonaseedson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

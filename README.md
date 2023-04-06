@@ -2,7 +2,7 @@
 
 #### Sobre mim
 
-##### Tenho 4 anos de experiência como Designer Gráfico, e atualmente estou estudando tecnologias Mobile, Web e Automações.
+##### Tenho 4 anos de experiência como Designer Gráfico, e atualmente estou estudando tecnologias Mobile, Webs e de automações.
 
 ### Detalhes
 
